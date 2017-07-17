@@ -1,1 +1,8 @@
-The open source list of trackers that powers our browser extensions, Firefox’s private browsing mode, and other popular privacy tools can be found here along with a change log and notes.
+# README.md EN::FR LISEZ-MOI.md
+# 
+# voici la liste des trackers qui alimentent nos extensions de navigateur.
+# 
+# Ici disponible en OpenSource, pour le mode de navigation privée Firefox,
+# Et d'autres outils de confidentialité populaires peuvent être trouvés ici
+# avec un journal des changements et des notes, des traductions, ou autres 
+# variantes.
